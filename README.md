@@ -1,4 +1,4 @@
-# -POWER-OPTIMIZATION-IN-WIRELESS-SENSOR-NETWORK-USING-MACHINE-LEARNING
+# POWER-OPTIMIZATION-IN-WIRELESS-SENSOR-NETWORK-USING-MACHINE-LEARNING
   
 This is a machine learning-based project to optimize power consumption in Wireless Sensor Networks (WSN). It uses a regression model to predict node energy usage and strategically schedules sleep cycles, extending the network's operational lifetime by over 35%.
 
